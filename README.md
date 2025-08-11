@@ -26,7 +26,6 @@ O **terminal-games** é um launcher interativo que permite executar jogos feitos
 terminal-games/
 │
 ├── games/           # Coloque aqui seus arquivos .lua e .txt de descrição
-├── saves/           # (não usado na versão atual, mas preparado para progresso)
 ├── src/
 │   ├── main.cpp     # Código fonte do launcher
 │   └── lua/         # Código fonte da biblioteca Lua
